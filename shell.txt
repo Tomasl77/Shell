@@ -1,0 +1,13 @@
+{ Shell }  » mkdir Jaime_le_shell					    ~/Coder Simplon/Shell
+{ Shell }  » touch test1                                                    ~/Coder Simplon/Shell
+{ Shell }  » touch test5                                                    ~/Coder Simplon/Shell
+{ Shell }  » mkdir test2                                                    ~/Coder Simplon/Shell
+{ Shell }  » mkdir test3                                                    ~/Coder Simplon/Shell
+{ Shell }  » mkdir test4                                                    ~/Coder Simplon/Shell
+{ Shell }  » mkdir test6                                                    ~/Coder Simplon/Shell
+{ Shell }  » mkdir le_shell_cest_trop_cool                                  ~/Coder Simplon/Shell
+{ Shell }  » mv test1 le_shell_cest_trop_cool                               ~/Coder Simplon/Shell
+{ Shell }  » mv test5 le_shell_cest_trop_cool                               ~/Coder Simplon/Shell
+{ Shell }  » cp -r test2 le_shell_cest_trop_cool                            ~/Coder Simplon/Shell
+{ Shell }  » cp -r test6 le_shell_cest_trop_cool                            ~/Coder Simplon/Shell
+{ Shell }  » cd ..                                                          ~/Coder Simplon/Shell
